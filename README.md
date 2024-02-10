@@ -17,4 +17,5 @@ Bacias hidrográficas inteligentes.
 Submetido 06/07/2023 Aceito 10/10/2023 Publicado 07/11/2023 
 
 Link de Acesso: https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/1093
+
 PDF: https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/1093/547
