@@ -1,8 +1,6 @@
 # IniciacaoCientifica
 
-Emílio José Biasi
-Orandi Mina Falsarella
-Duarcides Ferreira Mariosa
+Emílio José Biasi | Orandi Mina Falsarella | Duarcides Ferreira Mariosa
 
 Resumo: Com as mudanças climáticas afetando a disponibilidade regular de água, novas possibilidades devem 
 ser incorporadas à gestão dos recursos hídricos. Dado que as Tecnologias da Informação e Comunicação (TIC) 
