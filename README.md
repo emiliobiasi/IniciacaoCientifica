@@ -1,5 +1,7 @@
 # IniciacaoCientifica
 
+# BACIAS HIDROGRÁFICAS INTELIGENTES E SUSTENTÁVEIS: UMA PROPOSTA A PARTIR DO ESTUDO DE CONCEITOS E APLICAÇÕES SOBRE CIDADES INTELIGENTES
+
 Emílio José Biasi | Orandi Mina Falsarella | Duarcides Ferreira Mariosa
 
 Resumo: Com as mudanças climáticas afetando a disponibilidade regular de água, novas possibilidades devem 
